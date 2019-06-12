@@ -13,7 +13,10 @@ public class AppiumTest {
 	{
 		System.out.println("iOSApps");
 	}
-	
+	public void iOSApps1()
+	{
+		System.out.println("iOSApps1");
+	}
 	}
 
 
